@@ -34,7 +34,7 @@ RUN yum -y install unzip java-11-openjdk-devel
 # as per
 # https://github.com/tlaplus-workshops/ewd998/blob/main/.devcontainer/install.sh
 # only 
-RUN yum -y install texlive-latex-recommended
+#RUN yum -y install texlive-latex-recommended
 # is needed
 
 

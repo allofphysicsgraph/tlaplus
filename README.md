@@ -11,3 +11,8 @@ Using the official release from <https://github.com/tlaplus/tlaplus/releases#lat
 * Ubuntu 22.04, VSCode <https://github.com/kevinsullivan/TLAPlusDocker>
 
 See <https://github.com/tlaplus/tlaplus/issues/683>
+
+# access a Java GUI inside Docker using VNC
+
+<https://focusedforsuccess.com/how-do-i-run-a-java-app-with-a-gui-in-docker/>
+
